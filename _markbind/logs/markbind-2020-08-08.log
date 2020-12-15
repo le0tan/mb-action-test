@@ -1,0 +1,44 @@
+2020-08-08T06:49:20.925Z - info: Website generation (lazy) started at 2:49:20 PM
+2020-08-08T06:49:20.983Z - info: Building assets...
+2020-08-08T06:49:20.996Z - info: Assets built
+2020-08-08T06:49:20.997Z - info: Generating landing page...
+2020-08-08T06:49:21.134Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-08-08T06:49:21.167Z - info: Website generation (lazy) complete! Total build time: 0.259s
+2020-08-08T06:49:21.185Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\_site" at http://127.0.0.1:8080
+2020-08-08T06:49:21.185Z - info: Press CTRL+C to stop ...
+2020-08-08T06:49:21.191Z - info: Site data built
+2020-08-08T06:49:35.329Z - info: [2:49:35 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:49:36.333Z - info: Rebuilding 1 pages
+2020-08-08T06:49:36.441Z - info: Pages rebuilt
+2020-08-08T06:49:36.441Z - info: Website regeneration complete! Total build time: 0.108s
+2020-08-08T06:49:36.443Z - info: Site data built
+2020-08-08T06:49:41.820Z - info: [2:49:41 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:49:42.821Z - info: Rebuilding 1 pages
+2020-08-08T06:49:42.895Z - info: Pages rebuilt
+2020-08-08T06:49:42.896Z - info: Website regeneration complete! Total build time: 0.076s
+2020-08-08T06:49:42.898Z - info: Site data built
+2020-08-08T06:49:55.996Z - info: [2:49:55 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:49:57.010Z - info: Rebuilding 1 pages
+2020-08-08T06:49:57.095Z - info: Pages rebuilt
+2020-08-08T06:49:57.095Z - info: Website regeneration complete! Total build time: 0.085s
+2020-08-08T06:49:57.097Z - info: Site data built
+2020-08-08T06:56:00.166Z - info: [2:56:00 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:56:01.170Z - info: Rebuilding 1 pages
+2020-08-08T06:56:01.222Z - info: Pages rebuilt
+2020-08-08T06:56:01.222Z - info: Website regeneration complete! Total build time: 0.052s
+2020-08-08T06:56:01.224Z - info: Site data built
+2020-08-08T06:56:06.189Z - info: [2:56:06 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:56:07.199Z - info: Rebuilding 1 pages
+2020-08-08T06:56:07.249Z - info: Pages rebuilt
+2020-08-08T06:56:07.249Z - info: Website regeneration complete! Total build time: 0.051s
+2020-08-08T06:56:07.253Z - info: Site data built
+2020-08-08T06:56:10.346Z - info: [2:56:10 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:56:11.352Z - info: Rebuilding 1 pages
+2020-08-08T06:56:11.398Z - info: Pages rebuilt
+2020-08-08T06:56:11.398Z - info: Website regeneration complete! Total build time: 0.048s
+2020-08-08T06:56:11.400Z - info: Site data built
+2020-08-08T06:56:15.264Z - info: [2:56:15 PM] Reload for file change: C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\index.md
+2020-08-08T06:56:16.280Z - info: Rebuilding 1 pages
+2020-08-08T06:56:16.321Z - info: Pages rebuilt
+2020-08-08T06:56:16.321Z - info: Website regeneration complete! Total build time: 0.041s
+2020-08-08T06:56:16.323Z - info: Site data built

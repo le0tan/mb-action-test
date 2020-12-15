@@ -1,0 +1,9 @@
+2020-08-17T03:31:23.011Z - info: Website generation (lazy) started at 11:31:23 AM
+2020-08-17T03:31:23.059Z - info: Building assets...
+2020-08-17T03:31:23.078Z - info: Assets built
+2020-08-17T03:31:23.078Z - info: Generating landing page...
+2020-08-17T03:31:23.807Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-08-17T03:31:23.950Z - info: Website generation (lazy) complete! Total build time: 0.945s
+2020-08-17T03:31:23.967Z - info: Serving "C:\Users\ZeYu\Desktop\markbind\packages\core\template\default\_site" at http://127.0.0.1:8080
+2020-08-17T03:31:23.967Z - info: Press CTRL+C to stop ...
+2020-08-17T03:31:23.984Z - info: Site data built
